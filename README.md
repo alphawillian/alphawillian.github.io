@@ -1,7 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/alphawillian/alphawillian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里主要写一写自己用到的和自己琢磨的一些代码，我知道自己的水平很低，但是还是希望把自己的一些学习心得给奉献出来。
 
+如果这个博客的某些内容能对你有一点的帮助，那么我会感到非常的荣幸。如果你觉得我的那些代码或者思想是错误的或者有改进的地方，并且愿意指正出来，那么我就更加感谢了。我的邮箱是willian126@126.com。
+
+[常用的一些移动端js方法](http://blog.gethin.tech/desktop/usuallUse)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
