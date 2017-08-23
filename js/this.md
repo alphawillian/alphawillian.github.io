@@ -133,7 +133,7 @@ console.log(name);//zhar
 
 作用域链示意图：
 
- ![](http://opm7nn1ul.bkt.clouddn.com/2017060614967164595679.jpg)
+ ![](http://blog.gethin.tech/img/this1.jpg)
 
 
 
