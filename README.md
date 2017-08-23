@@ -4,8 +4,8 @@
 
 如果这个博客的某些内容能对你有一点的帮助，那么我会感到非常的荣幸。如果你觉得我的那些代码或者思想是错误的或者有改进的地方，并且愿意指正出来，那么我就更加感谢了。我的邮箱是willian126@126.com。
 
-[常用的一些移动端js方法](http://blog.gethin.tech/desktop/usuallUse)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[常用的一些移动端js方法](http://blog.gethin.tech/mobile/usuallUse)
+[js判断数据类型的方法](http://blog.gethin.tech/js/dataType)
 
 ### Markdown
 
