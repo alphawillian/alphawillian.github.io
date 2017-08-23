@@ -5,8 +5,10 @@
 如果这个博客的某些内容能对你有一点的帮助，那么我会感到非常的荣幸。如果你觉得我的那些代码或者思想是错误的或者有改进的地方，并且愿意指正出来，那么我就更加感谢了。我的邮箱是willian126@126.com。
 
 1. [常用的一些移动端js方法](http://blog.gethin.tech/mobile/usuallUse)
-
 2. [js判断数据类型的方法](http://blog.gethin.tech/js/dataType)
+3. [js面向对象的](http://blog.gethin.tech/js/object)
+4. [js原型，原型链，继承](http://blog.gethin.tech/js/prototype)
+5. [js作用域，闭包，this](http://blog.gethin.tech/js/this)
 
 ### Markdown
 

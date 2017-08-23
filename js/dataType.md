@@ -1,4 +1,5 @@
-## js的数据类型主要分为值类型和引用数据类型。值类型有number，string,boolean和undefined 引用类型是：Array，Object，Function和null。接下来我们用几种js方法来判断这些数据类型。
+## js数据类型判断
+### js的数据类型主要分为值类型和引用数据类型。值类型有number，string,boolean和undefined 引用类型是：Array，Object，Function和null。接下来我们用几种js方法来判断这些数据类型。
 我们先来定义几个变量。
 
 ```js
