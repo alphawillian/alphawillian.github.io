@@ -50,7 +50,7 @@ console.log(arr instanceof Array);//true
 
 `Person.prototype.constructor` 指向 `Person`
 
-![](http://opm7nn1ul.bkt.clouddn.com/20170527149585746850293.jpg)
+![](http://blog.gethin.tech/img/prototype1.jpg)
 
 
 
@@ -74,7 +74,7 @@ console.log(person.__proto__);
 
 `__proto__`存在于实例与构造函数的原型对象之间，而不是存在于实例与构造函数之间
 
-![](http://opm7nn1ul.bkt.clouddn.com/2017052714958575043110.jpg)
+![](http://blog.gethin.tech/img/prototype2.jpg)
 
 
 
@@ -148,7 +148,7 @@ person1.name = "newName";
 console.log(person1.hasOwnProperty("name"));//true
 ```
 
-![](http://opm7nn1ul.bkt.clouddn.com/2017052714958706772938.jpg)
+![](http://blog.gethin.tech/img/prototype3.jpg)
 
 ### in
 
@@ -218,7 +218,7 @@ console.log(person.topType+"--"+person.secondType);//脊椎动物--人类
 
 示意图如下：
 
-![](http://opm7nn1ul.bkt.clouddn.com/20170602149638378244540.jpg)
+![](http://blog.gethin.tech/img/prototype4.jpg)
 
 
 
@@ -238,7 +238,7 @@ console.log(student.topType+"--"+student.secondType+"--"+student.thirdType);//'�
 
 扩展后的示意图：
 
-![](http://opm7nn1ul.bkt.clouddn.com/20170602149638557787444.jpg)
+![](http://blog.gethin.tech/img/prototype5.jpg)
 
 
 
@@ -253,7 +253,7 @@ console.log(student.topType+"--"+student.secondType+"--"+student.thirdType);//'�
 
 如下图：
 
-![](http://opm7nn1ul.bkt.clouddn.com/20170602149638647365964.jpg)
+![](http://blog.gethin.tech/img/prototype6.jpg)
 
 
 
@@ -263,7 +263,7 @@ console.log(student.topType+"--"+student.secondType+"--"+student.thirdType);//'�
 
 更完善的原型链示意图：
 
-![](http://opm7nn1ul.bkt.clouddn.com/2017060214963888911007.jpg)
+![](http://blog.gethin.tech/img/prototype7.jpg)
 
 
 

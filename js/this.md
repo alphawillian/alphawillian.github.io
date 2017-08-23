@@ -678,7 +678,7 @@ console.log(a);//[9,2,3,4]
 
 在定义引用数据类型时，变量存放的只是一个地址。当使用对象拷贝，传递的也只是一个地址。因此在访问拷贝对象属性时，会根据地址找到源对象指向的堆内存中。
 
-​	![](http://opm7nn1ul.bkt.clouddn.com/20170611149718201316196.jpg)
+​	![](http://blog.gethin.tech/img/this2.jpg)
 
 
 
@@ -703,7 +703,7 @@ obj2.desc.push("昌平");
 console.log(obj1);//{ name: 'zhar', desc: [ '北京', '昌平' ] }
 ```
 
-![](http://opm7nn1ul.bkt.clouddn.com/20170611149718289591532.jpg)
+![](http://blog.gethin.tech/img/this3.jpg)
 
 
 
