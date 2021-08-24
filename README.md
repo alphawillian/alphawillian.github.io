@@ -1,3 +1,10 @@
+<!--
+ * @Author: 张国欣
+ * @Description: blog主页
+ * @Date: 2021-08-24 17:18:56
+ * @LastEditors: 
+ * @LastEditTime: 2021-08-24 18:02:58
+-->
 ## 欢迎来到我的博客
 
 这里主要写一写自己用到的和自己琢磨的一些代码，我知道自己的水平很低，但是还是希望把自己的一些学习心得给奉献出来。
@@ -9,7 +16,7 @@
 3. [js面向对象的](http://blog.gethin.tech/js/object)
 4. [js原型，原型链，继承](http://blog.gethin.tech/js/prototype)
 5. [js作用域，闭包，this](http://blog.gethin.tech/js/this)
-
+6. [阿里云ces服务器的一些初始化](http://blog.gethin.tech/ces/init)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
